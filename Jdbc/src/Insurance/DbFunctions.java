@@ -83,7 +83,6 @@ public class DbFunctions {
             System.out.println("Table deleted");
         }catch(Exception e){System.out.println(e);}
     }
-
 }
 
 

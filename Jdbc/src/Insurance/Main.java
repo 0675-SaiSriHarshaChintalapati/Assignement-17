@@ -12,7 +12,5 @@ class Main{
        // db.updateName(conn,"employee","Harsha","Har");
         //db.deleteRowByName(conn,"employee","Harsha");
         db.deleteTable(conn,"employee");
-
-
     }
 }
